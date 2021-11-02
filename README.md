@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
+
 - 🔭 I’m currently working on CTF Challenges for ISFCR CTF 2022 🤫 and Much more xD
 - 🌱 I’m currently learning DevOps,Cybersecurity and Networking
 - 👯 I’m looking for Industrial Opportunities in Devops, Network Security and pentesting (Summer 2022)
