@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## My Tryhackme Stats 😊 
 <br>
  <img src="https://tryhackme-badges.s3.amazonaws.com/e11i0t.png" alt="TryHackMe">
-<br>
+
 
 ### Follow me at
 
