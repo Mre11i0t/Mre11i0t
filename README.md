@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Pavan Karthick M &nbsp; aka e11i0t <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+# Pavan Karthick M aka e11i0t <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 <br>
 <img src=https://media.giphy.com/media/5yGaqOGLZOsqPqmnmT/giphy.gif>
 <p>
@@ -32,8 +32,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / Him / Hacker 🤣
 
 <br>
-![e11i0t's github stats](https://github-readme-stats.vercel.app/api?username=Mre11i0t&show_icons=true&hide_border=true)
+<br>
 
+
+![Pavan Karthick's github stats](https://github-readme-stats.vercel.app/api?username=Mre11i0t&show_icons=true&hide_border=true)
+
+<br>
   <a href="https://www.linkedin.com/in/e11i0t/">
     <img align="left" alt="Pavan Karthick M | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
