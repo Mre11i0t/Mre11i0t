@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / Him / Hacker 🤣
 
 <br>
-<br>
-
 
 ![Pavan Karthick's github stats](https://github-readme-stats.vercel.app/api?username=Mre11i0t&show_icons=true&hide_border=true)
 <br>
