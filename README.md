@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://pes.edu"> <b>PES University</b>, Bangalore</a>. <br>
-    I eagerly want to learn and share my knowledge through workshops and CTFs <a href="https://isfcr.pes.edu"><b> ISFCR Club </b></a> with help and guidance from C-ISFCR pesu <br> 
+    I eagerly want to learn and share my knowledge through <b>workshops</b> and <b>CTFs</b> <a href="https://isfcr.pes.edu"><b> ISFCR Club </b></a> with help and guidance from C-ISFCR pesu <br> 
     A budding <b>Ethical Hacker, Penetration Tester</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cybersecurity Enthusiast</b>&nbsp;<br></em>  
 </p>
 
@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 
 
 ![Pavan Karthick's github stats](https://github-readme-stats.vercel.app/api?username=Mre11i0t&show_icons=true&hide_border=true)
-
+<br>
+## My Tryhackme Stats 😊 
+<br>
+ <script src="https://tryhackme.com/badge/48532"></script>
 <br>
   <a href="https://www.linkedin.com/in/e11i0t/">
     <img align="left" alt="Pavan Karthick M | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
