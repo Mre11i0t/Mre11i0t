@@ -51,5 +51,5 @@ Here are some ideas to get you started:
   <a href="mailto:mpkarthick2002@gmail.com">
     <img align="left" alt="Pavan Karthick M | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-  
+  <br><br><br><br><br>
   **⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
