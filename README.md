@@ -14,13 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Pavan Karthick M &nbsp;<img src="![image](https://user-images.githubusercontent.com/56353002/139918448-2b3f0497-e0f1-495d-af2a-9eef30429b9d.png)" width="30px">
+# Pavan Karthick M &nbsp; aka e11i0t <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<br>
 <img src=https://media.giphy.com/media/5yGaqOGLZOsqPqmnmT/giphy.gif>
+<p>
+  <em>
+    I am a 3rd Year undergraduate from <a href="https://pes.edu"> <b>PES University</b>, Bangalore</a>. <br>
+    A budding <b>Ethical Hacker, Penetration Tester</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cybersecurity Enthusiast</b>&nbsp;<br></em>  
+</p>
 
+<br>
 - 🔭 I’m currently working on CTF Challenges for ISFCR CTF 2022 🤫 and Much more xD
 - 🌱 I’m currently learning DevOps,Cybersecurity and Networking
-- 👯 I’m looking to collaborate on any Networking or Cybersecurity Domain or Devops related projects (I'm not a pro but I am a fast learner)
-- 💬 Ask me about my journey in PES University xD
-- 📫 How to reach me: Discord probably send me a friend request (0xe11i0t#2534) and hmu
+- 👯 I’m looking for Industrial Opportunities in Devops, Network Security and pentesting (Summer 2022)
+- 💬 Ask me about my journey in Cybersecurity
+- 📫 How to reach me: Discord probably send me a friend request (0xe11i0t#2534) or find my social media below
 - 😄 Pronouns: He / Him / Hacker 🤣
 
+<br>
+![e11i0t's github stats](https://github-readme-stats.vercel.app/api?username=Mre11i0t&show_icons=true&hide_border=true)
+
+  <a href="https://www.linkedin.com/in/e11i0t/">
+    <img align="left" alt="Pavan Karthick M | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/e11i0t_">
+    <img align="left" alt="Pavan Karthick M | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/urs_truly_pavankarthick/">
+    <img align="left" alt="Pavan Karthick M | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:mpkarthick2002@gmail.com">
+    <img align="left" alt="Pavan Karthick M | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+  
+  **⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
