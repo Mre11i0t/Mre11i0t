@@ -40,8 +40,10 @@ Here are some ideas to get you started:
 ## My Tryhackme Stats 😊 
 <br>
  <img src="https://tryhackme-badges.s3.amazonaws.com/e11i0t.png" alt="TryHackMe">
+ 
+## My Credly Badges
 
-
+<br>
 <!--START_SECTION:badges-->
 
 [![Cybersecurity Compliance Framework & System Administration](https://images.credly.com/size/110x110/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png)](http://www.credly.com/badges/0b03f6ec-0383-401f-980d-5c82442a3bd3 "Cybersecurity Compliance Framework & System Administration")
