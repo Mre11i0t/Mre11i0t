@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:badges-->
+
+[![Cybersecurity Compliance Framework & System Administration](https://images.credly.com/size/110x110/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png)](http://www.credly.com/badges/0b03f6ec-0383-401f-980d-5c82442a3bd3 "Cybersecurity Compliance Framework & System Administration")
+[![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/110x110/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](http://www.credly.com/badges/343d4bac-6c90-42d1-9af3-a630a9d473b2 "Introduction to Cybersecurity Tools & Cyber Attacks")
+[![Network Security & Database Vulnerabilities](https://images.credly.com/size/110x110/images/16bb3b0a-9b25-4165-8d70-3b4f88b17db4/Net_Security_DB_Vulnerable.png)](http://www.credly.com/badges/5f526aa7-0a54-4692-9a5a-cb5a16686836 "Network Security & Database Vulnerabilities")
+[![Cybersecurity Roles, Processes & Operating System Security](https://images.credly.com/size/110x110/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png)](http://www.credly.com/badges/2dad32e2-d901-45ee-a802-7035feb12789 "Cybersecurity Roles, Processes & Operating System Security")
 <!--END_SECTION:badges-->
 <!-- Test -->
 ### Follow me at
