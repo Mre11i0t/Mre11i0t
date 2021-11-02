@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 <br>
  <img src="https://tryhackme-badges.s3.amazonaws.com/e11i0t.png" alt="TryHackMe">
 <br>
+### Follow me at
+<br>
   <a href="https://www.linkedin.com/in/e11i0t/">
     <img align="left" alt="Pavan Karthick M | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -55,6 +57,6 @@ Here are some ideas to get you started:
   <a href="mailto:mpkarthick2002@gmail.com">
     <img align="left" alt="Pavan Karthick M | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-  <br><br><br><br><br>
+  <br><br><br>
   
   **⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
