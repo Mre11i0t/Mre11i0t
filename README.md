@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Pavan Karthick M &nbsp;<img src="https://c.tenor.com/_HPofCxgZcAAAAAC/mr-robot-elliot-alderson.gif" width="30px">
+# Pavan Karthick M &nbsp;<img src="https://c.tenor.com/nf985lW6iawAAAAC/anonymous-hacker.gif" width="30px">
 <img src=https://media.giphy.com/media/5yGaqOGLZOsqPqmnmT/giphy.gif>
 
 - 🔭 I’m currently working on CTF Challenges for ISFCR CTF 2022 🤫 and Much more xD
