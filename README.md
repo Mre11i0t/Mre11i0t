@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 <br>
 ## My Tryhackme Stats 😊 
 <br>
+
  <script src="https://tryhackme.com/badge/48532"></script>
+ 
 <br>
   <a href="https://www.linkedin.com/in/e11i0t/">
     <img align="left" alt="Pavan Karthick M | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
