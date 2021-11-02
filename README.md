@@ -42,8 +42,10 @@ Here are some ideas to get you started:
  <img src="https://tryhackme-badges.s3.amazonaws.com/e11i0t.png" alt="TryHackMe">
 
 
-### Follow me at
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
+### Follow me at
 <br>
   <a href="https://www.linkedin.com/in/e11i0t/">
     <img align="left" alt="Pavan Karthick M | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
