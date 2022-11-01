@@ -19,16 +19,18 @@ Here are some ideas to get you started:
 <img src=https://media.giphy.com/media/5yGaqOGLZOsqPqmnmT/giphy.gif>
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://pes.edu"> <b>PES University</b>, Bangalore</a>. <br>
+    I am a 4rd Year undergraduate from <a href="https://pes.edu"> <b>PES University</b>, Bangalore</a>. <br>
+    I currently work at @CloudSEK as a Customer threat research Intern, where I actively hunt for Threats related to clients, Research on Threat hunting techniques, automate monotonous work in security research, Discovering and investigating scam campaigns and emerging threats. <br>
+    I started contributing to Opensource projects and I love doing it so If you have any suggestions reach out to me.
     I eagerly want to learn and share my knowledge through <b>workshops</b> and <b>CTFs</b> <a href="https://isfcr.pes.edu"><b> ISFCR Club </b></a> with help and guidance from C-ISFCR pesu <br> 
     A budding <b>Ethical Hacker, Penetration Tester</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cybersecurity Enthusiast</b>&nbsp;<br></em>  
 </p>
 
 <br>
 
-- 🔭 I’m currently working on CTF Challenges for ISFCR CTF 2022 🤫 and Much more xD
-- 🌱 I’m currently learning DevOps,Cybersecurity and Networking
-- 👯 I’m looking for Industrial Opportunities in Devops, Network Security and pentesting (Summer 2022)
+- 🔭 I’m currently working on Opensource contributions for httpx, My college capstone and Office work 
+- 😎 Currently working on building a product for my capstone which automates security lab deployments, randomised security lab creation helpful for security organisations for skill evaluation, college for assignment and evaluating student performance in security/cloud based labs 
+- 🌱 I’m currently learning Go, Cybersecurity, Docker
 - 💬 Ask me about my journey in Cybersecurity
 - 📫 How to reach me: Discord probably send me a friend request (0xe11i0t#2534) or find my social media below
 - 😄 Pronouns: He / Him / Hacker 🤣
