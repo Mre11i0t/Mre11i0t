@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # Pavan Karthick M aka e11i0t <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 <br>
-<img src=https://media.giphy.com/media/5yGaqOGLZOsqPqmnmT/giphy.gif>
 <p>
   <em>
     I am a 4rd Year undergraduate from <a href="https://pes.edu"> <b>PES University</b>, Bangalore</a>. <br>
