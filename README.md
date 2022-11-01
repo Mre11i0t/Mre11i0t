@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>
   <em>
     I am a 4rd Year undergraduate from <a href="https://pes.edu"> <b>PES University</b>, Bangalore</a>. <br>
-    I currently work at <a href=https://cloudsek.com> **CloudSEK** </a> as a Customer threat research Intern, where I actively hunt for Threats related to clients, Research on Threat hunting techniques, automate monotonous work in security research, Discovering and investigating scam campaigns and emerging threats. <br>
+    I currently work at <a href=https://cloudsek.com> <b>CloudSEK</b> </a> as a Customer threat research Intern, where I actively hunt for Threats related to clients, Research on Threat hunting techniques, automate monotonous work in security research, Discovering and investigating scam campaigns and emerging threats. <br>
     I started contributing to Opensource projects and I love doing it so If you have any suggestions reach out to me.
     I eagerly want to learn and share my knowledge through <b>workshops</b> and <b>CTFs</b> <a href="https://isfcr.pes.edu"><b> ISFCR Club </b></a> with help and guidance from C-ISFCR pesu <br> 
     A budding <b>Ethical Hacker, Penetration Tester</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cybersecurity Enthusiast</b>&nbsp;<br></em>  
