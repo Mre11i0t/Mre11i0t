@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <br>
 
-- 🔭 I’m currently working on Opensource contributions for httpx, My college capstone and Office work 
 - 😎 Currently working on building a product for my capstone which automates security lab deployments, randomised security lab creation helpful for security organisations for skill evaluation, college for assignment and evaluating student performance in security/cloud based labs 
 - 🌱 I’m currently learning Go, Cybersecurity, Docker
 - 💬 Ask me about my journey in Cybersecurity
